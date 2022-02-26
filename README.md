@@ -28,13 +28,13 @@ I train model restnet and efficientnet on this animal dataset. Resnet has accura
 ### Resnet
 ![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/loss_ef.JPG)
 ![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/acc_res.JPG)
-![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/resnet.PNG)
+![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/resnet.png)
 
 
 
 ### EfficientNet
 ![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/loss_train.JPG)
 ![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/acc_ef.JPG)
-![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/efficient.JPG)
+![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/efficient.png)
 
 The EfficientNet perform better when detect cat images
