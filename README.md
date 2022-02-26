@@ -26,15 +26,15 @@ python detect.py new-data label.txt efficientnet efficient.pth
 ## 5.Result 
 I train model restnet and efficientnet on this animal dataset. Resnet has accuracy 87% while EfficientNet has 90% on validation set
 ### Resnet
-![file](https://github.com/thienlk2000/Object-Localization/tree/main/imgs/loss_ef.JPG)
-![file](https://github.com/thienlk2000/Object-Localization/tree/main/imgs/acc_res.JPG)
-![file](https://github.com/thienlk2000/Object-Localization/tree/main/imgs/resnet.PNG)
+![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/loss_ef.JPG)
+![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/acc_res.JPG)
+![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/resnet.PNG)
 
 
 
 ### EfficientNet
-![file](https://github.com/thienlk2000/Object-Localization/tree/main/imgs/loss_train.JPG)
-![file](https://github.com/thienlk2000/Object-Localization/tree/main/imgs/acc_ef.JPG)
-![file](https://github.com/thienlk2000/Object-Localization/tree/main/imgs/efficient.JPG)
+![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/loss_train.JPG)
+![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/acc_ef.JPG)
+![file](https://github.com/thienlk2000/Object-Localization/blob/main/imgs/efficient.JPG)
 
 The EfficientNet perform better when detect cat images
