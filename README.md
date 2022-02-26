@@ -20,7 +20,7 @@ python train.py src/data efficientnet --epoch 40 --batch_size 64 --learning_rate
 ## 4.Detect
 Detect image folder using a model that you have trained by specifying image folder, model type and weight 
 ```bash
-python detect.py new-data label.txt efficientnet efficient.pth 
+python detect.py new-data efficientnet efficient.pth 
 ```
 
 ## 5.Result 
